@@ -20,9 +20,9 @@ A Vacation Leave Management System is a software tool that helps organizations m
 
 **Screenshots**
 
-<img width="1890" height="990" alt="image" src="https://github.com/user-attachments/assets/cdf941d1-39b4-4516-9b73-d1e6999ef5e2" />
-
 <img width="1913" height="979" alt="image" src="https://github.com/user-attachments/assets/02240436-d9b3-4640-89db-f619b817c590" />
+
+<img width="1890" height="990" alt="image" src="https://github.com/user-attachments/assets/cdf941d1-39b4-4516-9b73-d1e6999ef5e2" />
 
 <img width="1909" height="985" alt="image" src="https://github.com/user-attachments/assets/1f399b1d-292e-43a0-a3f7-f42e285bc990" />
 
