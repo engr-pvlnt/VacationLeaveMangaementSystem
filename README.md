@@ -16,7 +16,7 @@ A Vacation Leave Management System is a software tool that helps organizations m
 - Allow employees to apply for leave and view their leave status.
 
 
-*Feel free to contribute and improve this project!*
+*DM for Sourcecode*
 
 **Screenshots**
 
